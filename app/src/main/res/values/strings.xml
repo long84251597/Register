@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">双佳注册号生成</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="machine_code">机器码：</string>
+    <string name="register_code">注册码：</string>
+    <string name="software_code">设备码：</string>
+    <string name="hardware_code">机器码：</string>
+    <string name="btnGenerate">生成注册码</string>
+
+</resources>
